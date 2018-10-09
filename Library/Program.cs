@@ -12,7 +12,7 @@ namespace Library
         {
             List<Book> book = new List<Book> { };
             book.Add(new Book("Gone with the wind", "Margeret Mitchell", "Fiction", 1936));
-            book.Add(new Book("The book theif", "Markus Zusak", "Fiction", 2005));
+            book.Add(new Book("The book theif", "Markus Zusak", "Fiction", 2006));
             book.Add(new Book("Dune", "Frank Herbertt", "Sci-fi", 1965));
             book.Add(new Book("The Giver", "Lois Lowry", "Sci-fi", 1993));
             book.Add(new Book("Animal Farm", "George Orwell", "Sci-fi", 1945));
